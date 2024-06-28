@@ -1,5 +1,5 @@
 ## Alx collaborative Portfolio project:
-#Contributors:
+### Contributors:
 Williams Michael,
-Steven Miene,
+Steven Miene, and
 Hammed Yakub.

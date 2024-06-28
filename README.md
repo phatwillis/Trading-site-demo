@@ -1,4 +1,5 @@
 ## Alx collaborative Portfolio project:
-Williams Michael
-Steven Miene
-Hammed Yakub
+#Contributors:
+Williams Michael,
+Steven Miene,
+Hammed Yakub.

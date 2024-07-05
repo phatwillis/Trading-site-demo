@@ -17,14 +17,18 @@ const About = () => {
                 className="default_cursor_cs default_cursor_land">
                 </path>
             </svg>
-                <p className="ml-2 text-sm lg:text-base md:text-base sm:text-base text-white"> Lorem ipsum dolor sit amet.</p>
+                <p className="ml-2 text-sm lg:text-base md:text-base sm:text-base text-white"> Project Description.</p>
             </div>
         </div>
-        <h3 className='lg:text-4xl md:text-3xl text-3xl md:text-center text-left text-white py-5'> Lorem ipsum dolor sit amet.</h3>
+        <h3 className='lg:text-xl md:text-xl text-xl md:text-center text-left text-white py-5'> The project was inspired by the need of knowing how the banking/trading system works getting inspiration from livemarket.com.</h3>
         <div className='flex justify-center'>
-
-            <p className='md:text-center text-left text-white md:w-[39%]'> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-        </div>
+    <p className='md:text-center text-left text-white md:w-[39%]'>
+        This project was worked on by
+        <a href='https://github.com/phatwillis' target='_blank' rel='noopener noreferrer'> Williams Michael</a>,
+        <a href='https://github.com/midorichie' target='_blank' rel='noopener noreferrer'> Hamed Yakub</a>, and
+        <a href='https://github.com/Sleekstiv007' target='_blank' rel='noopener noreferrer'> Steven Miene</a>.
+    </p>
+</div>
 
         <div className='md:flex md:justify-between md:mx-32 pt-10 grid grid-cols-2 gap-10'>
         <div data-aos="fade-up" data-aos-delay="100" className="w-1/7 h-full">

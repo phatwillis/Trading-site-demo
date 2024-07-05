@@ -22,12 +22,14 @@ const About = () => {
         </div>
         <h3 className='lg:text-xl md:text-xl text-xl md:text-center text-left text-white py-5'> The project was inspired by the need of knowing how the banking/trading system works getting inspiration from livemarket.com.</h3>
         <div className='flex justify-center'>
-    <p className='md:text-center text-left text-white md:w-[39%]'>
-        This project was worked on by
-        <a href='https://github.com/phatwillis' target='_blank' rel='noopener noreferrer'> Williams Michael</a>,
-        <a href='https://github.com/midorichie' target='_blank' rel='noopener noreferrer'> Hamed Yakub</a>, and
-        <a href='https://github.com/Sleekstiv007' target='_blank' rel='noopener noreferrer'> Steven Miene</a>.
-    </p>
+    <div className='md:text-center text-left text-white md:w-[39%]'>
+       <p> This project was worked on by</p>
+      <div>
+        <a href='https://github.com/phatwillis' className='text-white hover:text-blue-500' target='_blank' rel='noopener noreferrer'> Williams Michael</a>,
+        <a href='https://github.com/midorichie' className='text-white hover:text-blue-500' target='_blank' rel='noopener noreferrer'> Hamed Yakub</a>, and
+        <a href='https://github.com/Sleekstiv007' className='text-white hover:text-blue-500' target='_blank' rel='noopener noreferrer'> Steven Miene</a>.
+    </div>
+    </div>
 </div>
 
         <div className='md:flex md:justify-between md:mx-32 pt-10 grid grid-cols-2 gap-10'>

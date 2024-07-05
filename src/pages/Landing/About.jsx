@@ -23,10 +23,10 @@ const About = () => {
         <h3 className='lg:text-xl md:text-xl text-xl md:text-center text-left text-white py-5'> The project was inspired by the need of knowing how the banking/trading system works getting inspiration from livemarket.com.</h3>
         <div className='flex justify-center'>
     <div className='md:text-center text-left text-white md:w-[39%]'>
-       <p> This project was worked on by</p>
+       <p> This project was worked on by</p><br/>
       <div>
-        <a href='https://github.com/phatwillis' className='text-white hover:text-blue-500' target='_blank' rel='noopener noreferrer'> Williams Michael</a>,
-        <a href='https://github.com/midorichie' className='text-white hover:text-blue-500' target='_blank' rel='noopener noreferrer'> Hamed Yakub</a>, and
+        <a href='https://github.com/phatwillis' className='text-white hover:text-blue-500' target='_blank' rel='noopener noreferrer'> Williams Michael</a>,<br/>
+        <a href='https://github.com/midorichie' className='text-white hover:text-blue-500' target='_blank' rel='noopener noreferrer'> Hamed Yakub</a>, and<br/>
         <a href='https://github.com/Sleekstiv007' className='text-white hover:text-blue-500' target='_blank' rel='noopener noreferrer'> Steven Miene</a>.
     </div>
     </div>
